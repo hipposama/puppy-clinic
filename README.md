@@ -18,13 +18,13 @@
 
 ###
 
-<h2 align="left">Features:</h2>
-
-###
-
 <br clear="both">
 
 <img align="right" height="220" src="https://media2.giphy.com/media/cjbxJXhNXDMjhlr1S8/200w.gif?cid=6c09b9524souvtdqc0vwe7laleipujgf7yfhflcguwswloat&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
+###
+
+<h2 align="left">Features:</h2>
 
 ###
 
